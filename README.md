@@ -1,2 +1,2 @@
 # JavaDemo
-日常Java小Demo
+Java Demo
